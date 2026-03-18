@@ -10,7 +10,7 @@ Examples of this include new APIs, new core cogs, etc.
 
 <!-- To check a box, replace the space between the [] with a x -->
 
-- [ ] New core cog
+- [x] New core cog
 - [ ] New API
 - [ ] Other
 
